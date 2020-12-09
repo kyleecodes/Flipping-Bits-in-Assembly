@@ -1,4 +1,4 @@
-# asm_Bitflip
+# Flipping Bits in Assembly
 This is an extension to my EFlags Status project in Assembly. Instead of simply showing the states of the Eflags, the colors of the 0's and 1's cycle through the rainbow with each change in state.
 
 "Eflags" are the fundamental registers in Intel x86 microprocessors that contain the current state of the processor.
